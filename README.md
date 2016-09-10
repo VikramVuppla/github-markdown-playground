@@ -2,6 +2,6 @@
 Github Markdown
 
 
-[link to subdir](../../)
+[link to main folder](../../)
 
-[link to subdir/README.md](subdir/README.md)
+[link to README.md](../../README.md)
